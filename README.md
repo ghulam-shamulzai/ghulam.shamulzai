@@ -1,2 +1,2 @@
 # Hello, I am Ghulam Shamulzai
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/https%3A%2F%2Fstatic.licdn.com%2Faero-v1%2Fsc%2Fh%2Fen3f1pk3qk4cxtj2j4fff0gtr?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fghulam-shamulzai%2F" /></a>
+<a href="https://www.linkedin.com/in/ghulam-shamulzai/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)" /></a>
