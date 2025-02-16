@@ -10,7 +10,7 @@ I am a Sr. Business Analyst who is currently looking to pivot and leverage my ex
 ## Skills and projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a   href="https://google.comhttps://github.com/ghulamshamulzai/ghulam.shamulzai/blob/main/SIEM%20Implementation%20and%20Log%20Analysis">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a   href="https://github.com/ghulamshamulzai/ghulam.shamulzai/blob/main/SIEM%20Implementation%20and%20Log%20Analysis">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Labhttps://github.com/ghulam-shamulzai/ghulam.shamulzai/blob/main/SIEM%20Implementation%20and%20Log%20Analysis</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
