@@ -15,3 +15,7 @@ I am a Sr. Business Analyst who is currently looking to pivot and leverage my ex
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
+
+
+## Below is a picture of the SIEM Dashboard. The track and visualizes Failed RDP Logins for the past 7 days.
+https://github.com/ghulam-shamulzai/ghulam.shamulzai/blob/main/Untitled%20picture.png
