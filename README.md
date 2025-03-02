@@ -3,7 +3,7 @@
 ## Objective
 I am a Sr. Business Analyst who is currently looking to pivot and leverage my experience in data and business analytics, project management and logistics and supply to cybersecurity. I am very eager to transition into this field. My main goal is to pivot as a Security Operations Center (SOC) as a Tier 1 Analyst
 
-## You can find the link to my Github below
+## You can find the link to my LinkedIn profile below
 <a href="https://www.linkedin.com/in/ghulam-shamulzai/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)" /></a>
 
 
@@ -17,5 +17,4 @@ I am a Sr. Business Analyst who is currently looking to pivot and leverage my ex
 | Case Management with TheHive                  | SOC Automation Lab|
 
 
-## Below is a picture of the SIEM Dashboard. The track and visualizes Failed RDP Logins for the past 7 days.
-<img src="https://github.com/ghulam-shamulzai/ghulam.shamulzai/blob/main/Untitled%20picture.png">
+
